@@ -1,20 +1,17 @@
-Employee Analytics SQL Project
-Project Overview
+-- Employee Analytics SQL Project --
 
-This project uses SQL to analyze employee data and answer common business and HR questions.
-It focuses on salary analysis, department performance, and employee–manager relationships.
+Project Overview
+- This project uses SQL to analyze employee data and answer common business and HR questions.
+- It focuses on salary analysis, department performance, and employee–manager relationships.
 
 Tools Used
-MySQL
-SQL
+- MySQL
+- SQL
 
 Data Description
 The project uses two tables:
-
-employees – employee details like name, department, salary, and hire date
-managers – manager details by department
-
-Tasks Performed
+- employees – employee details like name, department, salary, and hire date
+- managers – manager details by department
 
 ### Tasks Performed  
 - Find employees working in a specific department  
@@ -29,7 +26,7 @@ Tasks Performed
 
 SQL Concepts Used
 
-Subqueries
+- Subqueries
 - CTE (WITH clause)
 - Joins
 - Window Functions (ROW_NUMBER, DENSE_RANK, LAG, LEAD)
