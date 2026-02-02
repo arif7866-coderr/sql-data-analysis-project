@@ -33,9 +33,8 @@ SQL Concepts Used
 - Aggregate Functions
 
 Outcome
-This project helped me improve my SQL skills and understand how SQL is used to solve real business problems.
+- This project helped me improve my SQL skills and understand how SQL is used to solve real business problems.
 
 Author
-
-Arif Ansari
-Data Analyst
+- Arif Ansari
+- Data Analyst
